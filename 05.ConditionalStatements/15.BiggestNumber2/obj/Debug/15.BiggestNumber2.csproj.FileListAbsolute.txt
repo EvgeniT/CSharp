@@ -1,0 +1,6 @@
+G:\Softuni\Homework01\CSharpHomework\05.ConditionalStatements\15.BiggestNumber2\bin\Debug\15.BiggestNumber2.exe.config
+G:\Softuni\Homework01\CSharpHomework\05.ConditionalStatements\15.BiggestNumber2\bin\Debug\15.BiggestNumber2.exe
+G:\Softuni\Homework01\CSharpHomework\05.ConditionalStatements\15.BiggestNumber2\bin\Debug\15.BiggestNumber2.pdb
+G:\Softuni\Homework01\CSharpHomework\05.ConditionalStatements\15.BiggestNumber2\obj\Debug\15.BiggestNumber2.csprojResolveAssemblyReference.cache
+G:\Softuni\Homework01\CSharpHomework\05.ConditionalStatements\15.BiggestNumber2\obj\Debug\15.BiggestNumber2.exe
+G:\Softuni\Homework01\CSharpHomework\05.ConditionalStatements\15.BiggestNumber2\obj\Debug\15.BiggestNumber2.pdb

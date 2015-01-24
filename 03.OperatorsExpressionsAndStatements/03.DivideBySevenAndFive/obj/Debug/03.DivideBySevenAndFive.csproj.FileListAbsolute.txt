@@ -1,0 +1,6 @@
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\03.DivideBySevenAndFive\bin\Debug\03.DivideBySevenAndFive.exe.config
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\03.DivideBySevenAndFive\bin\Debug\03.DivideBySevenAndFive.exe
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\03.DivideBySevenAndFive\bin\Debug\03.DivideBySevenAndFive.pdb
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\03.DivideBySevenAndFive\obj\Debug\03.DivideBySevenAndFive.csprojResolveAssemblyReference.cache
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\03.DivideBySevenAndFive\obj\Debug\03.DivideBySevenAndFive.exe
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\03.DivideBySevenAndFive\obj\Debug\03.DivideBySevenAndFive.pdb

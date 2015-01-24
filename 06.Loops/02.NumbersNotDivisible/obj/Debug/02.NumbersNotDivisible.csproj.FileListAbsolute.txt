@@ -1,0 +1,6 @@
+G:\Softuni\Homework01\CSharpHomework\Loops\02.NumbersNotDivisible\bin\Debug\02.NumbersNotDivisible.exe.config
+G:\Softuni\Homework01\CSharpHomework\Loops\02.NumbersNotDivisible\bin\Debug\02.NumbersNotDivisible.exe
+G:\Softuni\Homework01\CSharpHomework\Loops\02.NumbersNotDivisible\bin\Debug\02.NumbersNotDivisible.pdb
+G:\Softuni\Homework01\CSharpHomework\Loops\02.NumbersNotDivisible\obj\Debug\02.NumbersNotDivisible.csprojResolveAssemblyReference.cache
+G:\Softuni\Homework01\CSharpHomework\Loops\02.NumbersNotDivisible\obj\Debug\02.NumbersNotDivisible.exe
+G:\Softuni\Homework01\CSharpHomework\Loops\02.NumbersNotDivisible\obj\Debug\02.NumbersNotDivisible.pdb

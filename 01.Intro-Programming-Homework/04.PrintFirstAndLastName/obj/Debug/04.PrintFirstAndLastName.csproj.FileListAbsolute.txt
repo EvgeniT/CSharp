@@ -1,0 +1,5 @@
+G:\Softuni\Homework01\CSharpHomework\Intro-Programming-Homework\Intro-Programming-Homework\04.PrintFirstAndLastName\bin\Debug\04.PrintFirstAndLastName.exe.config
+G:\Softuni\Homework01\CSharpHomework\Intro-Programming-Homework\Intro-Programming-Homework\04.PrintFirstAndLastName\bin\Debug\04.PrintFirstAndLastName.exe
+G:\Softuni\Homework01\CSharpHomework\Intro-Programming-Homework\Intro-Programming-Homework\04.PrintFirstAndLastName\bin\Debug\04.PrintFirstAndLastName.pdb
+G:\Softuni\Homework01\CSharpHomework\Intro-Programming-Homework\Intro-Programming-Homework\04.PrintFirstAndLastName\obj\Debug\04.PrintFirstAndLastName.exe
+G:\Softuni\Homework01\CSharpHomework\Intro-Programming-Homework\Intro-Programming-Homework\04.PrintFirstAndLastName\obj\Debug\04.PrintFirstAndLastName.pdb

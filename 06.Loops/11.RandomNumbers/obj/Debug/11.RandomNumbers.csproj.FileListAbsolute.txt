@@ -1,0 +1,5 @@
+G:\Softuni\Homework01\CSharpHomework\Loops\11.RandomNumbers\bin\Debug\11.RandomNumbers.exe.config
+G:\Softuni\Homework01\CSharpHomework\Loops\11.RandomNumbers\bin\Debug\11.RandomNumbers.exe
+G:\Softuni\Homework01\CSharpHomework\Loops\11.RandomNumbers\bin\Debug\11.RandomNumbers.pdb
+G:\Softuni\Homework01\CSharpHomework\Loops\11.RandomNumbers\obj\Debug\11.RandomNumbers.exe
+G:\Softuni\Homework01\CSharpHomework\Loops\11.RandomNumbers\obj\Debug\11.RandomNumbers.pdb

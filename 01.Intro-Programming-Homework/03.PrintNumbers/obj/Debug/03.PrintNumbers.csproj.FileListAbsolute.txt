@@ -1,0 +1,5 @@
+G:\Softuni\Homework01\CSharpHomework\Intro-Programming-Homework\Intro-Programming-Homework\03.PrintNumbers\bin\Debug\03.PrintNumbers.exe.config
+G:\Softuni\Homework01\CSharpHomework\Intro-Programming-Homework\Intro-Programming-Homework\03.PrintNumbers\bin\Debug\03.PrintNumbers.exe
+G:\Softuni\Homework01\CSharpHomework\Intro-Programming-Homework\Intro-Programming-Homework\03.PrintNumbers\bin\Debug\03.PrintNumbers.pdb
+G:\Softuni\Homework01\CSharpHomework\Intro-Programming-Homework\Intro-Programming-Homework\03.PrintNumbers\obj\Debug\03.PrintNumbers.exe
+G:\Softuni\Homework01\CSharpHomework\Intro-Programming-Homework\Intro-Programming-Homework\03.PrintNumbers\obj\Debug\03.PrintNumbers.pdb

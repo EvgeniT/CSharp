@@ -1,0 +1,5 @@
+G:\Softuni\Homework01\CSharpHomework\05.ConditionalStatements\06.BiggestOfFiveNumbers\bin\Debug\06.BiggestOfFiveNumbers.exe.config
+G:\Softuni\Homework01\CSharpHomework\05.ConditionalStatements\06.BiggestOfFiveNumbers\bin\Debug\06.BiggestOfFiveNumbers.exe
+G:\Softuni\Homework01\CSharpHomework\05.ConditionalStatements\06.BiggestOfFiveNumbers\bin\Debug\06.BiggestOfFiveNumbers.pdb
+G:\Softuni\Homework01\CSharpHomework\05.ConditionalStatements\06.BiggestOfFiveNumbers\obj\Debug\06.BiggestOfFiveNumbers.exe
+G:\Softuni\Homework01\CSharpHomework\05.ConditionalStatements\06.BiggestOfFiveNumbers\obj\Debug\06.BiggestOfFiveNumbers.pdb

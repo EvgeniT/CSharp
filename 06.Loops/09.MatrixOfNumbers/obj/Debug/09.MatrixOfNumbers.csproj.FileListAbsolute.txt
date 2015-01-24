@@ -1,0 +1,6 @@
+G:\Softuni\Homework01\CSharpHomework\Loops\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.exe.config
+G:\Softuni\Homework01\CSharpHomework\Loops\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.exe
+G:\Softuni\Homework01\CSharpHomework\Loops\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.pdb
+G:\Softuni\Homework01\CSharpHomework\Loops\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.csprojResolveAssemblyReference.cache
+G:\Softuni\Homework01\CSharpHomework\Loops\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.exe
+G:\Softuni\Homework01\CSharpHomework\Loops\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.pdb

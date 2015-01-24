@@ -1,0 +1,5 @@
+G:\Softuni\Homework01\CSharpHomework\02.PrimitiveDataTypesAndVariables\21.EmployeeData1\bin\Debug\21.EmployeeData1.exe.config
+G:\Softuni\Homework01\CSharpHomework\02.PrimitiveDataTypesAndVariables\21.EmployeeData1\bin\Debug\21.EmployeeData1.exe
+G:\Softuni\Homework01\CSharpHomework\02.PrimitiveDataTypesAndVariables\21.EmployeeData1\bin\Debug\21.EmployeeData1.pdb
+G:\Softuni\Homework01\CSharpHomework\02.PrimitiveDataTypesAndVariables\21.EmployeeData1\obj\Debug\21.EmployeeData1.exe
+G:\Softuni\Homework01\CSharpHomework\02.PrimitiveDataTypesAndVariables\21.EmployeeData1\obj\Debug\21.EmployeeData1.pdb

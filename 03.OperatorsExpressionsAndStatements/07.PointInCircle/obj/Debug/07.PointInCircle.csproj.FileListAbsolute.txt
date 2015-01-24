@@ -1,0 +1,5 @@
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\07.PointInCircle\bin\Debug\07.PointInCircle.exe.config
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\07.PointInCircle\bin\Debug\07.PointInCircle.exe
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\07.PointInCircle\bin\Debug\07.PointInCircle.pdb
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\07.PointInCircle\obj\Debug\07.PointInCircle.exe
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\07.PointInCircle\obj\Debug\07.PointInCircle.pdb

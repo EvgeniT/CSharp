@@ -1,0 +1,5 @@
+G:\Softuni\Homework01\CSharpHomework\05.ConditionalStatements\05.BiggestOfThreeNumbers\bin\Debug\05.BiggestOfThreeNumbers.exe.config
+G:\Softuni\Homework01\CSharpHomework\05.ConditionalStatements\05.BiggestOfThreeNumbers\bin\Debug\05.BiggestOfThreeNumbers.exe
+G:\Softuni\Homework01\CSharpHomework\05.ConditionalStatements\05.BiggestOfThreeNumbers\bin\Debug\05.BiggestOfThreeNumbers.pdb
+G:\Softuni\Homework01\CSharpHomework\05.ConditionalStatements\05.BiggestOfThreeNumbers\obj\Debug\05.BiggestOfThreeNumbers.exe
+G:\Softuni\Homework01\CSharpHomework\05.ConditionalStatements\05.BiggestOfThreeNumbers\obj\Debug\05.BiggestOfThreeNumbers.pdb

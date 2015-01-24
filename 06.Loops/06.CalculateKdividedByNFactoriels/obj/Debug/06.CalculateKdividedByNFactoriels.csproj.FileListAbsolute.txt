@@ -1,0 +1,5 @@
+G:\Softuni\Homework01\CSharpHomework\Loops\06.CalculateKdividedByNFactoriels\bin\Debug\06.CalculateKdividedByNFactoriels.exe.config
+G:\Softuni\Homework01\CSharpHomework\Loops\06.CalculateKdividedByNFactoriels\bin\Debug\06.CalculateKdividedByNFactoriels.exe
+G:\Softuni\Homework01\CSharpHomework\Loops\06.CalculateKdividedByNFactoriels\bin\Debug\06.CalculateKdividedByNFactoriels.pdb
+G:\Softuni\Homework01\CSharpHomework\Loops\06.CalculateKdividedByNFactoriels\obj\Debug\06.CalculateKdividedByNFactoriels.exe
+G:\Softuni\Homework01\CSharpHomework\Loops\06.CalculateKdividedByNFactoriels\obj\Debug\06.CalculateKdividedByNFactoriels.pdb

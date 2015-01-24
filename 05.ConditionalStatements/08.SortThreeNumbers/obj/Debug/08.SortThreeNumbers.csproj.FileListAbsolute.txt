@@ -1,0 +1,5 @@
+G:\Softuni\Homework01\CSharpHomework\05.ConditionalStatements\08.SortThreeNumbers\bin\Debug\08.SortThreeNumbers.exe.config
+G:\Softuni\Homework01\CSharpHomework\05.ConditionalStatements\08.SortThreeNumbers\bin\Debug\08.SortThreeNumbers.exe
+G:\Softuni\Homework01\CSharpHomework\05.ConditionalStatements\08.SortThreeNumbers\bin\Debug\08.SortThreeNumbers.pdb
+G:\Softuni\Homework01\CSharpHomework\05.ConditionalStatements\08.SortThreeNumbers\obj\Debug\08.SortThreeNumbers.exe
+G:\Softuni\Homework01\CSharpHomework\05.ConditionalStatements\08.SortThreeNumbers\obj\Debug\08.SortThreeNumbers.pdb

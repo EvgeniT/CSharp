@@ -1,0 +1,5 @@
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\12.ExtractBitFromInteger\bin\Debug\12.ExtractBitFromInteger.exe.config
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\12.ExtractBitFromInteger\bin\Debug\12.ExtractBitFromInteger.exe
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\12.ExtractBitFromInteger\bin\Debug\12.ExtractBitFromInteger.pdb
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\12.ExtractBitFromInteger\obj\Debug\12.ExtractBitFromInteger.exe
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\12.ExtractBitFromInteger\obj\Debug\12.ExtractBitFromInteger.pdb

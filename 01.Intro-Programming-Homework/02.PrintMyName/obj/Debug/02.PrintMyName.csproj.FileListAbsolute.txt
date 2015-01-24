@@ -1,0 +1,5 @@
+G:\Softuni\Homework01\CSharpHomework\Intro-Programming-Homework\Intro-Programming-Homework\02.PrintMyName\bin\Debug\02.PrintMyName.exe.config
+G:\Softuni\Homework01\CSharpHomework\Intro-Programming-Homework\Intro-Programming-Homework\02.PrintMyName\bin\Debug\02.PrintMyName.exe
+G:\Softuni\Homework01\CSharpHomework\Intro-Programming-Homework\Intro-Programming-Homework\02.PrintMyName\bin\Debug\02.PrintMyName.pdb
+G:\Softuni\Homework01\CSharpHomework\Intro-Programming-Homework\Intro-Programming-Homework\02.PrintMyName\obj\Debug\02.PrintMyName.exe
+G:\Softuni\Homework01\CSharpHomework\Intro-Programming-Homework\Intro-Programming-Homework\02.PrintMyName\obj\Debug\02.PrintMyName.pdb

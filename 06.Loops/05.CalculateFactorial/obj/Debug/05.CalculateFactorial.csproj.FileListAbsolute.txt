@@ -1,0 +1,6 @@
+G:\Softuni\Homework01\CSharpHomework\Loops\05.CalculateFactorial\bin\Debug\05.CalculateFactorial.exe.config
+G:\Softuni\Homework01\CSharpHomework\Loops\05.CalculateFactorial\bin\Debug\05.CalculateFactorial.exe
+G:\Softuni\Homework01\CSharpHomework\Loops\05.CalculateFactorial\bin\Debug\05.CalculateFactorial.pdb
+G:\Softuni\Homework01\CSharpHomework\Loops\05.CalculateFactorial\obj\Debug\05.CalculateFactorial.exe
+G:\Softuni\Homework01\CSharpHomework\Loops\05.CalculateFactorial\obj\Debug\05.CalculateFactorial.pdb
+G:\Softuni\Homework01\CSharpHomework\Loops\05.CalculateFactorial\obj\Debug\05.CalculateFactorial.csprojResolveAssemblyReference.cache

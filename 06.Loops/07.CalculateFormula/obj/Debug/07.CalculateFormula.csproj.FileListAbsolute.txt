@@ -1,0 +1,5 @@
+G:\Softuni\Homework01\CSharpHomework\Loops\07.CalculateFormula\bin\Debug\07.CalculateFormula.exe.config
+G:\Softuni\Homework01\CSharpHomework\Loops\07.CalculateFormula\bin\Debug\07.CalculateFormula.exe
+G:\Softuni\Homework01\CSharpHomework\Loops\07.CalculateFormula\bin\Debug\07.CalculateFormula.pdb
+G:\Softuni\Homework01\CSharpHomework\Loops\07.CalculateFormula\obj\Debug\07.CalculateFormula.exe
+G:\Softuni\Homework01\CSharpHomework\Loops\07.CalculateFormula\obj\Debug\07.CalculateFormula.pdb

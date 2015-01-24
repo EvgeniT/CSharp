@@ -1,0 +1,5 @@
+G:\Softuni\Homework01\CSharpHomework\Loops\04.PrintCards\bin\Debug\04.PrintCards.exe.config
+G:\Softuni\Homework01\CSharpHomework\Loops\04.PrintCards\bin\Debug\04.PrintCards.exe
+G:\Softuni\Homework01\CSharpHomework\Loops\04.PrintCards\bin\Debug\04.PrintCards.pdb
+G:\Softuni\Homework01\CSharpHomework\Loops\04.PrintCards\obj\Debug\04.PrintCards.exe
+G:\Softuni\Homework01\CSharpHomework\Loops\04.PrintCards\obj\Debug\04.PrintCards.pdb

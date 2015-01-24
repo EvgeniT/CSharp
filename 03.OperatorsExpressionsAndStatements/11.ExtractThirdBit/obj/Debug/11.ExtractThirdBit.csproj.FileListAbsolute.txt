@@ -1,0 +1,5 @@
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\11.ExtractThirdBit\bin\Debug\11.ExtractThirdBit.exe.config
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\11.ExtractThirdBit\bin\Debug\11.ExtractThirdBit.exe
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\11.ExtractThirdBit\bin\Debug\11.ExtractThirdBit.pdb
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\11.ExtractThirdBit\obj\Debug\11.ExtractThirdBit.exe
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\11.ExtractThirdBit\obj\Debug\11.ExtractThirdBit.pdb

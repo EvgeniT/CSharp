@@ -1,0 +1,6 @@
+G:\Softuni\Homework01\CSharpHomework\Intro-Programming-Homework\Intro-Programming-Homework\10.PrintLongSequence\bin\Debug\10.PrintLongSequence.exe.config
+G:\Softuni\Homework01\CSharpHomework\Intro-Programming-Homework\Intro-Programming-Homework\10.PrintLongSequence\bin\Debug\10.PrintLongSequence.exe
+G:\Softuni\Homework01\CSharpHomework\Intro-Programming-Homework\Intro-Programming-Homework\10.PrintLongSequence\bin\Debug\10.PrintLongSequence.pdb
+G:\Softuni\Homework01\CSharpHomework\Intro-Programming-Homework\Intro-Programming-Homework\10.PrintLongSequence\obj\Debug\10.PrintLongSequence.exe
+G:\Softuni\Homework01\CSharpHomework\Intro-Programming-Homework\Intro-Programming-Homework\10.PrintLongSequence\obj\Debug\10.PrintLongSequence.pdb
+G:\Softuni\Homework01\CSharpHomework\Intro-Programming-Homework\Intro-Programming-Homework\10.PrintLongSequence\obj\Debug\10.PrintLongSequence.csprojResolveAssemblyReference.cache

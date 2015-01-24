@@ -1,0 +1,5 @@
+G:\Softuni\Homework01\CSharpHomework\02.PrimitiveDataTypesAndVariables\03.VariableInHexFormat\bin\Debug\03.VariableInHexFormat.exe.config
+G:\Softuni\Homework01\CSharpHomework\02.PrimitiveDataTypesAndVariables\03.VariableInHexFormat\bin\Debug\03.VariableInHexFormat.exe
+G:\Softuni\Homework01\CSharpHomework\02.PrimitiveDataTypesAndVariables\03.VariableInHexFormat\bin\Debug\03.VariableInHexFormat.pdb
+G:\Softuni\Homework01\CSharpHomework\02.PrimitiveDataTypesAndVariables\03.VariableInHexFormat\obj\Debug\03.VariableInHexFormat.exe
+G:\Softuni\Homework01\CSharpHomework\02.PrimitiveDataTypesAndVariables\03.VariableInHexFormat\obj\Debug\03.VariableInHexFormat.pdb

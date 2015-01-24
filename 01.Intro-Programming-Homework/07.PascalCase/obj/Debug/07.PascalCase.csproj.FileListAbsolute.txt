@@ -1,0 +1,5 @@
+G:\Softuni\Homework01\CSharpHomework\Intro-Programming-Homework\Intro-Programming-Homework\07.PascalCase\bin\Debug\07.PascalCase.exe.config
+G:\Softuni\Homework01\CSharpHomework\Intro-Programming-Homework\Intro-Programming-Homework\07.PascalCase\bin\Debug\07.PascalCase.exe
+G:\Softuni\Homework01\CSharpHomework\Intro-Programming-Homework\Intro-Programming-Homework\07.PascalCase\bin\Debug\07.PascalCase.pdb
+G:\Softuni\Homework01\CSharpHomework\Intro-Programming-Homework\Intro-Programming-Homework\07.PascalCase\obj\Debug\07.PascalCase.exe
+G:\Softuni\Homework01\CSharpHomework\Intro-Programming-Homework\Intro-Programming-Homework\07.PascalCase\obj\Debug\07.PascalCase.pdb

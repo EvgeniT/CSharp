@@ -1,0 +1,5 @@
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.exe.config
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.exe
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.pdb
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.exe
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.pdb

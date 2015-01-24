@@ -1,0 +1,5 @@
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\09.Trapezoids\bin\Debug\09.Trapezoids.exe.config
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\09.Trapezoids\bin\Debug\09.Trapezoids.exe
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\09.Trapezoids\bin\Debug\09.Trapezoids.pdb
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\09.Trapezoids\obj\Debug\09.Trapezoids.exe
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\09.Trapezoids\obj\Debug\09.Trapezoids.pdb

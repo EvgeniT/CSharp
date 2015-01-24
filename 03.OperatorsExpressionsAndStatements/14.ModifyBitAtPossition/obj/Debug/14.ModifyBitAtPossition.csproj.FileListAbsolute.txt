@@ -1,0 +1,5 @@
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\14.ModifyBitAtPossition\bin\Debug\14.ModifyBitAtPossition.exe.config
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\14.ModifyBitAtPossition\bin\Debug\14.ModifyBitAtPossition.exe
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\14.ModifyBitAtPossition\bin\Debug\14.ModifyBitAtPossition.pdb
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\14.ModifyBitAtPossition\obj\Debug\14.ModifyBitAtPossition.exe
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\14.ModifyBitAtPossition\obj\Debug\14.ModifyBitAtPossition.pdb

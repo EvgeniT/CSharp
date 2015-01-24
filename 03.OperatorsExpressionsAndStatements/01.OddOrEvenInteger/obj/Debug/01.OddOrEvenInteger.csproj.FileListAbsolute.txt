@@ -1,0 +1,6 @@
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\01.OddOrEvenInteger\bin\Debug\01.OddOrEvenInteger.exe.config
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\01.OddOrEvenInteger\bin\Debug\01.OddOrEvenInteger.exe
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\01.OddOrEvenInteger\bin\Debug\01.OddOrEvenInteger.pdb
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\01.OddOrEvenInteger\obj\Debug\01.OddOrEvenInteger.csprojResolveAssemblyReference.cache
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\01.OddOrEvenInteger\obj\Debug\01.OddOrEvenInteger.exe
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\01.OddOrEvenInteger\obj\Debug\01.OddOrEvenInteger.pdb

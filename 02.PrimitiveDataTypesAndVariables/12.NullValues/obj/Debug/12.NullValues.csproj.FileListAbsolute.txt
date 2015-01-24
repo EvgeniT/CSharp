@@ -1,0 +1,5 @@
+G:\Softuni\Homework01\CSharpHomework\02.PrimitiveDataTypesAndVariables\12.NullValues\bin\Debug\12.NullValues.exe.config
+G:\Softuni\Homework01\CSharpHomework\02.PrimitiveDataTypesAndVariables\12.NullValues\bin\Debug\12.NullValues.exe
+G:\Softuni\Homework01\CSharpHomework\02.PrimitiveDataTypesAndVariables\12.NullValues\bin\Debug\12.NullValues.pdb
+G:\Softuni\Homework01\CSharpHomework\02.PrimitiveDataTypesAndVariables\12.NullValues\obj\Debug\12.NullValues.exe
+G:\Softuni\Homework01\CSharpHomework\02.PrimitiveDataTypesAndVariables\12.NullValues\obj\Debug\12.NullValues.pdb

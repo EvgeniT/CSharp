@@ -1,0 +1,6 @@
+G:\Softuni\Homework01\CSharpHomework\Intro-Programming-Homework\Intro-Programming-Homework\09.AgeNowAndThen\bin\Debug\09.AgeNowAndThen.exe.config
+G:\Softuni\Homework01\CSharpHomework\Intro-Programming-Homework\Intro-Programming-Homework\09.AgeNowAndThen\bin\Debug\09.AgeNowAndThen.exe
+G:\Softuni\Homework01\CSharpHomework\Intro-Programming-Homework\Intro-Programming-Homework\09.AgeNowAndThen\bin\Debug\09.AgeNowAndThen.pdb
+G:\Softuni\Homework01\CSharpHomework\Intro-Programming-Homework\Intro-Programming-Homework\09.AgeNowAndThen\obj\Debug\09.AgeNowAndThen.csprojResolveAssemblyReference.cache
+G:\Softuni\Homework01\CSharpHomework\Intro-Programming-Homework\Intro-Programming-Homework\09.AgeNowAndThen\obj\Debug\09.AgeNowAndThen.exe
+G:\Softuni\Homework01\CSharpHomework\Intro-Programming-Homework\Intro-Programming-Homework\09.AgeNowAndThen\obj\Debug\09.AgeNowAndThen.pdb

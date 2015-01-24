@@ -1,0 +1,6 @@
+G:\Softuni\Homework01\CSharpHomework\04.ConsoleInputOutput\08.NumbersFromOneToN\bin\Debug\08.NumbersFromOneToN.exe.config
+G:\Softuni\Homework01\CSharpHomework\04.ConsoleInputOutput\08.NumbersFromOneToN\bin\Debug\08.NumbersFromOneToN.exe
+G:\Softuni\Homework01\CSharpHomework\04.ConsoleInputOutput\08.NumbersFromOneToN\bin\Debug\08.NumbersFromOneToN.pdb
+G:\Softuni\Homework01\CSharpHomework\04.ConsoleInputOutput\08.NumbersFromOneToN\obj\Debug\08.NumbersFromOneToN.csprojResolveAssemblyReference.cache
+G:\Softuni\Homework01\CSharpHomework\04.ConsoleInputOutput\08.NumbersFromOneToN\obj\Debug\08.NumbersFromOneToN.exe
+G:\Softuni\Homework01\CSharpHomework\04.ConsoleInputOutput\08.NumbersFromOneToN\obj\Debug\08.NumbersFromOneToN.pdb

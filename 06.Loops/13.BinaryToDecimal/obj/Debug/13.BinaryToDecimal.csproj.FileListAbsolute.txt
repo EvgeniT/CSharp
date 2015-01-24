@@ -1,0 +1,5 @@
+G:\Softuni\Homework01\CSharpHomework\Loops\13.BinaryToDecimal\bin\Debug\13.BinaryToDecimal.exe.config
+G:\Softuni\Homework01\CSharpHomework\Loops\13.BinaryToDecimal\bin\Debug\13.BinaryToDecimal.exe
+G:\Softuni\Homework01\CSharpHomework\Loops\13.BinaryToDecimal\bin\Debug\13.BinaryToDecimal.pdb
+G:\Softuni\Homework01\CSharpHomework\Loops\13.BinaryToDecimal\obj\Debug\13.BinaryToDecimal.exe
+G:\Softuni\Homework01\CSharpHomework\Loops\13.BinaryToDecimal\obj\Debug\13.BinaryToDecimal.pdb

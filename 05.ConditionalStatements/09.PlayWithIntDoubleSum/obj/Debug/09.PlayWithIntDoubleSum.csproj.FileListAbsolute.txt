@@ -1,0 +1,6 @@
+G:\Softuni\Homework01\CSharpHomework\05.ConditionalStatements\09.PlayWithIntDoubleSum\bin\Debug\09.PlayWithIntDoubleSum.exe.config
+G:\Softuni\Homework01\CSharpHomework\05.ConditionalStatements\09.PlayWithIntDoubleSum\bin\Debug\09.PlayWithIntDoubleSum.exe
+G:\Softuni\Homework01\CSharpHomework\05.ConditionalStatements\09.PlayWithIntDoubleSum\bin\Debug\09.PlayWithIntDoubleSum.pdb
+G:\Softuni\Homework01\CSharpHomework\05.ConditionalStatements\09.PlayWithIntDoubleSum\obj\Debug\09.PlayWithIntDoubleSum.csprojResolveAssemblyReference.cache
+G:\Softuni\Homework01\CSharpHomework\05.ConditionalStatements\09.PlayWithIntDoubleSum\obj\Debug\09.PlayWithIntDoubleSum.exe
+G:\Softuni\Homework01\CSharpHomework\05.ConditionalStatements\09.PlayWithIntDoubleSum\obj\Debug\09.PlayWithIntDoubleSum.pdb

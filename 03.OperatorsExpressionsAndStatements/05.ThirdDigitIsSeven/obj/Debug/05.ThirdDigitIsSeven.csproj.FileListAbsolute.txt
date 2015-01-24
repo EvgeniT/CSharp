@@ -1,0 +1,6 @@
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\05.ThirdDigitIsSeven\bin\Debug\05.ThirdDigitIsSeven.exe.config
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\05.ThirdDigitIsSeven\bin\Debug\05.ThirdDigitIsSeven.exe
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\05.ThirdDigitIsSeven\bin\Debug\05.ThirdDigitIsSeven.pdb
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\05.ThirdDigitIsSeven\obj\Debug\05.ThirdDigitIsSeven.csprojResolveAssemblyReference.cache
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\05.ThirdDigitIsSeven\obj\Debug\05.ThirdDigitIsSeven.exe
+G:\Softuni\Homework01\CSharpHomework\OperatorsExpressionsAndStatements\05.ThirdDigitIsSeven\obj\Debug\05.ThirdDigitIsSeven.pdb

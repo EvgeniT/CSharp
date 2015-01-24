@@ -1,0 +1,5 @@
+G:\Softuni\Homework01\CSharpHomework\02.PrimitiveDataTypesAndVariables\09.ExchangeVariable\bin\Debug\09.ExchangeVariable.exe.config
+G:\Softuni\Homework01\CSharpHomework\02.PrimitiveDataTypesAndVariables\09.ExchangeVariable\bin\Debug\09.ExchangeVariable.exe
+G:\Softuni\Homework01\CSharpHomework\02.PrimitiveDataTypesAndVariables\09.ExchangeVariable\bin\Debug\09.ExchangeVariable.pdb
+G:\Softuni\Homework01\CSharpHomework\02.PrimitiveDataTypesAndVariables\09.ExchangeVariable\obj\Debug\09.ExchangeVariable.exe
+G:\Softuni\Homework01\CSharpHomework\02.PrimitiveDataTypesAndVariables\09.ExchangeVariable\obj\Debug\09.ExchangeVariable.pdb
